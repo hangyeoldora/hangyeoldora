@@ -25,3 +25,5 @@
 - 2021년 오픈스퀘어 공공데이터 활용 교육 수료
 - 2020 부산 소셜벤처 저변확대 교육 수료
 
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hangyeoldora&layout=compact&theme=merko)
