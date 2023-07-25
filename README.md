@@ -26,4 +26,4 @@
 - 2020 부산 소셜벤처 저변확대 교육 수료
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hangyeoldora&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hangyeoldora&layout=compact&theme=tokyonight)
