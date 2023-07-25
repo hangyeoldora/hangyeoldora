@@ -26,4 +26,4 @@
 - 2020 부산 소셜벤처 저변확대 교육 수료
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hangyeoldora&layout=compact&theme=tokyonight)
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?hangyeoldora" frameborder="0"></iframe>
