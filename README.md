@@ -3,12 +3,12 @@
 <div id="header" align="center">
   <h3>안녕하세요.</h3>
   
-  <h3>새로운 것에 도전하기를 좋아하는 개발자 꿈나무 '이한결'입니다.</h3>
+  <h3>새로운 것에 도전하기를 좋아하는 개발자 '이한결'입니다.</h3>
 </div>
 
 ---
 ### 🛠️ Tech Stacks:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Python&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Python&logoColor=white) ![Java](https://img.shields.io/badge/Java-D32D27?style=flat-square&logo=Python&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=Python&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Python&logoColor=white) ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) ![css3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 ### **🏃 Experience**:
